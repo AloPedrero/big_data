@@ -1,0 +1,10 @@
+.DS_Store
+*.pyc
+/act 3/act_3_big_data/bin
+/act 3/act_3_big_data/lib
+*.cfg
+*.json
+*.png
+*.svg
+/act 3/act_3_big_data/share
+act 3/files/amazon_electronics.csv
