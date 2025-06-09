@@ -1,0 +1,7 @@
+findspark
+pyspark
+numpy
+pandas
+matplotlib
+seaborn
+setuptools
